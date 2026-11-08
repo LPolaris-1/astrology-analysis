@@ -1,0 +1,6 @@
+interface:
+  display_name: "西占本命盘深度分析"
+  short_description: "精确排盘、稳定性审计与证据化深度解读"
+  default_prompt: "Use $astrology-analysis to calculate and deeply interpret my Western tropical natal chart."
+policy:
+  allow_implicit_invocation: true

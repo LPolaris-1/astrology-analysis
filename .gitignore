@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.se1
+input.json
+input.local.json
+chart_data.json
+chart_data-*.json
+reports/
+output/
+*.html
+*.pdf
+Thumbs.db
+.DS_Store
